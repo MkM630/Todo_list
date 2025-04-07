@@ -43,8 +43,5 @@ The `styles.css` file contains the custom CSS styles used in the app.
 - React
 - Tailwind CSS
 
-## Contributing
-
-If you'd like to contribute to the project, please fork the repository and create a new branch for your changes. Once you've made your changes, submit a pull request.
 
 
