@@ -2,6 +2,19 @@
 
 This is a simple todo app built using React and Tailwind CSS. It's a great project for beginner to intermediate frontend developers looking to improve their React and CSS skills.
 
+## Screenshot's
+<h2>Lingt mode with Weather API</h2>
+
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/ffb13856-fe53-4d07-a97e-17772c00bcc1" />
+
+<h2>Dark Mode</h2>
+
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/e486c336-3d65-40c5-8738-161b33d096f1" />
+
+<h2>Nav bar for complete,not complete and all task details</h2>
+
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/5646ee70-61ba-4145-a820-714f00f4559f" />
+
 ## Features
 
 - Add new todo items
@@ -34,6 +47,4 @@ The `styles.css` file contains the custom CSS styles used in the app.
 
 If you'd like to contribute to the project, please fork the repository and create a new branch for your changes. Once you've made your changes, submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
